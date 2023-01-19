@@ -1,0 +1,36 @@
+.Header{
+    border-radius: 1rem;
+    display: grid;
+    background: rgba(44, 44, 44, 44);
+    grid-template-columns: 4fr 1fr;
+    margin: 1rem;
+    margin-bottom: 0.2rem;
+}
+.Header__Info{
+    display: block;
+        margin-top: 0;
+        margin-bottom: .5rem; 
+        font-size: 1.25rem;
+        font-weight: bold;
+    margin-left: 5%;
+    color: white;
+    margin-bottom: 0;
+}
+.Header__Title{
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    display: block;
+    font-weight: 100;
+    color: rgba(200, 200, 200, 0.6);
+    margin: 0;
+}
+
+.Img{
+    padding: 0.5rem;
+    margin: auto;
+    border-radius: 50%;
+    height: 5rem;
+    margin-right: 0rem;
+    display: flex;
+    justify-content: flex-end;
+}

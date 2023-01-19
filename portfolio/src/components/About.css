@@ -1,0 +1,28 @@
+.About{
+    grid-template-columns: 2fr 0.7fr;
+    margin: 1rem;
+    margin-top: 0.2rem;
+    display: grid;
+    max-width: 95%;
+}
+.About__LeftBar{
+    border: #28282899;
+    border-radius: 1rem;
+    margin-right: 0.5rem;
+    background: rgba(44, 44, 44, 44);
+    color: white;
+}
+.About__RightBar{
+    border: #28282899;
+    border-radius: 1rem;
+    background: rgba(44, 44, 44, 44);
+    color: white;
+}
+.About__LeftBar p {
+    padding-left: 1rem;
+    padding-right : 1rem;
+}
+.About__RightBar p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
