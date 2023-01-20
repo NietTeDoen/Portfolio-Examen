@@ -5,6 +5,7 @@
     grid-template-columns: 4fr 1fr;
     margin: 1rem;
     margin-bottom: 0.2rem;
+    margin-right: 4%;
 }
 .Header__Info{
     display: block;

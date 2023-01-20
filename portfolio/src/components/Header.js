@@ -1,17 +1,17 @@
 import HeaderCSS from './Header.css'
 import Buttons from './Buttons';
-import Harm from './img/Harm.png'
+import Ado from './img/Ado.jpg'
 
 function Header(){
     return(
         <div>
         <div className='Header'>
             <div className='Header__Info'>
-                <p>Harm Haandrikman</p>
+                <p>Ado de Vries</p>
                 <span className='Header__Title'>Software Developer</span>
             </div>
             <div>
-                <img className='Img' src={Harm}></img>
+                <img className='Img' src={Ado}></img>
             </div>
         </div>
         <Buttons/>
