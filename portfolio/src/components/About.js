@@ -1,14 +1,13 @@
 import AboutCSS from './About.css';
 import ActVariables from './Activities';
 import Activities from './Activities';
-import ActivityVar from './ActivityVar';
 
 function About(){
     return(
         <div className="About">
             <div className="About__LeftBar">
             <p>About Me</p>
-            <p>Ik ben Ado De Vries, ben een sortware developer met 8 jaar ervaring. ik ben 27 jaar oud met een passie voor back-end development.
+            <p>Ik ben Harm Haandrikman, ben een sortware developer met 8 jaar ervaring. ik ben 19 jaar oud met een passie voor back-end development.
                 ik heb mee gedaan aan verschillende projecten, en begin binnenkort aan een nieuw project. om de projecten te zien ga dan naar de Skills tab.
                 daar zie je ook welke projecten ik op het moment mee bezig ben en welke ik heb gedaan. <br/><br/>
                 

@@ -1,6 +1,5 @@
 import MediaPlayer from "./img/MediaPlayer.png";
 import ActivitiesCSS from "./Activities.css";
-import ActivityVar from "./ActivityVar";
 
 function Activities(props) {
   console.log(props.title);
@@ -20,7 +19,7 @@ function ActVariables() {
         title="StretchMusicPlayer"
         img={MediaPlayer}
         desc="Dit is een muziek speler en video downloader in 1 project. hierdoor kun je de potentie krijgen om snel een video te downloaden
-            en daardoor snel een playlist te maken naar jou wil. en nog beter het is Gratis en AD FREEs"
+            en daardoor snel een playlist te maken naar jou wil. en nog beter het is Gratis en AD FREE"
       />
       <Activities 
       title="VR Kermis" 
