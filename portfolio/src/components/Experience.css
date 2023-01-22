@@ -1,0 +1,25 @@
+.Experience__Gridbox{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 0.5rem;
+    margin-left: 1rem;
+    margin-right: auto;
+    max-width: 95%;
+}
+.Experience__Flexbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+    background: rgba(44, 44, 44, 44);
+    border-radius: 1rem;
+}
+.Experience__Item{
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+.Experience__Img{
+    max-height: fit-content;
+}

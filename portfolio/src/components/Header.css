@@ -6,6 +6,9 @@
     margin: 1rem;
     margin-bottom: 0.2rem;
     margin-right: 4%;
+    min-width: 95%;
+    max-width: 100%;
+    width: 95%;
 }
 .Header__Info{
     display: block;
