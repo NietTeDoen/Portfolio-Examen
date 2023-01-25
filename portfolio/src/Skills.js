@@ -10,7 +10,6 @@ function Skills(){
             <Header/>
             <Experience/>
             <Footer/>
-            <h1>Skills</h1>
         </div>
     )
 }

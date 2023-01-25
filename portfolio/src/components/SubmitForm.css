@@ -1,0 +1,55 @@
+.Form__Info{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    gap: 0.1rem;
+    background-color: rgba(44, 44, 44, 44);
+    margin-top: 0;
+    border-radius: 1rem;
+    align-content: baseline;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 1rem;
+    max-width: auto;
+}
+.Form__Info__Name{
+    height: 3rem;
+    width: auto;
+    margin-top: 1rem;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border-radius: 1rem;
+    border: 1rem;
+    font-size: 1rem;
+}
+.Form__Info__Email{
+    height: 3rem;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border-radius: 1rem;
+    border: 1rem;
+    font-size: 1rem;
+}
+.Form__Info__MSG{
+    height: 25rem;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border-radius: 1rem;
+    border: 1rem;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+.Form__Gridbox{
+    display: grid;
+    gap: 0.1rem;
+    max-width: 97%;
+    margin-left: 0.2rem;
+}
+.Form__info__Submit{
+    background-color: rgb(22, 22, 22);
+}
+.Form__Info__Text{
+    color: white;
+    background-color: rgba(44, 44, 44, 44);
+    border-radius: 1rem;
+}
