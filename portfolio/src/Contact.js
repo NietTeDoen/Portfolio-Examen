@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import SubmitForm from "./components/SubmitForm";
+import SubmitForm from "./components/SubmitForm.tsx";
 
 function Contact(){
     return(
