@@ -7,13 +7,20 @@ function About(){
         <div className="About">
             <div className="About__LeftBar">
             <p>About Me</p>
-            <p>Ik ben Harm Haandrikman, ben een sortware developer met 8 jaar ervaring. ik ben 19 jaar oud met een passie voor back-end development.
-                ik heb mee gedaan aan verschillende projecten, en begin binnenkort aan een nieuw project. om de projecten te zien ga dan naar de Skills tab.
-                daar zie je ook welke projecten ik op het moment mee bezig ben en welke ik heb gedaan. <br/><br/>
-                
-                Ik heb 5 jaar ervaring met C#, unity, JS en 3 jaar met html, css, react.js. hierdoor kan ik verschillende projecten opstarten zonder moeite.
-                Dat blijkt aan de hoeveelheid aan projecten die ik heb gemaakt. bijvoorbeeld een youtube video downloader. <br/>
-                zoekt een persoon die een simpele en snelle applicatie kan maken dan bent u bij de juiste persoon.
+            <p>Hallo ik ben Harm Haandrikman<br/>
+            ik ben een software developer met ervaring in HTML code, CSS code, en heb veel javascript developer skills.
+            Hierdoor heb ik ervaring met het React.js Framework. Daarnaast ben ik ook een Junior C# Developer, hierdoor kan ik omgaan met Unity en Visual Basic.
+            Ik kan coderen in veel Text editiors bijv. Sublime, Visual studio code, Brackets en Rider IDE.
+            ik ben een junior Front-End Developer en ben een experienced unity game developer met 5 jaar ervaring.
+            <br/>
+            Voor mijn projecten ga naar mijn <a href='https://github.com/NietTeDoenDlive'>Github</a>
+            <br/><br/>
+            Over mij? <br/>
+            Ik ben 19 jaar oud en heb een passie voor Back-End development. Daarentegen kan ik ook Front-End development.
+            Ik vond dat een MUST om te leren zodat ik zo goed moegelijk kan samen werken met de andere kant van het team en mijn projecten daarop aan kan passen.
+            Daarnaast heb ik veel ervaring met unity indie development en heb daardoor ook goede problem solving capabilities.
+            In een bedrijf heb ik nog geen ervaring met in een team werken maar ik ben zwaar gemotiveerd om het te leren.<br/>
+            <br/>Gaat u mij daarbij helpen?
             </p>
             </div>
             <div className="About__RightBar">
